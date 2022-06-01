@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate frontend developer from Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working on **learning and practicing:)**
+- 🔭 I’m a Software Engineering student looking for my first dev job experience!
 
-- 🌱 I’m currently learning **React, Typescript, Node, Express, MongoDB, Jest, Redux, GraphQL, Styled Components**
+- 🌱 I’m currently learning and practicing **MERN Stack** and other technologies (React, Typescript, Node, Express, MongoDB, Jest, Redux, GraphQL, Styled Components)
 
-- 👯 I’m looking to collaborate on **open source projects and build my owns**
-
-- 📫 How to reach me **lucasvega02@gmail.com**
+- ⚡ In my free time I like to learn about product management, design, startups, web3 and other related topics. I also like to cook and train :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
