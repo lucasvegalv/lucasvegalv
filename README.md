@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Buenos Aires, Argentina</h3>
 
 <h3 align="left">About me:</h3>
+
 - 🔭 I’m a Software Engineering student looking for my first dev job experience!
 
 - 🌱 I’m currently learning and practicing **MERN Stack** and other technologies (React, Typescript, Node, Express, MongoDB, Jest, Redux, GraphQL, Styled Components)
