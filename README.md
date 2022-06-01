@@ -20,5 +20,5 @@
 <h3 align="left">Some Stats:</h3>
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvegalv&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
- <img class="img" src="https://github-readme-streak-stats.herokuapp.com?user=lucasvegalv)](https://git.io/streak-stats" />
+ <img class="img" src="[https://github-readme-streak-stats.herokuapp.com?user=lucasvegalv)](https://git.io/streak-stats](https://github-readme-streak-stats.herokuapp.com?user=lucasvegalv)](https://git.io/streak-stats)" />
 </div>
