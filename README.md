@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate frontend developer from Buenos Aires, Argentina</h3>
+<h1 align="center">Hi 👋, it´s Lucas</h1>
 
 <h3 align="left">About me:</h3>
 
