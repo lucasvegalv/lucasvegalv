@@ -2,9 +2,9 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m a Software Engineering student looking for my first dev job experience!
+- 🔭 I’m a **Software Engineering student** looking for my first dev job experience!
 
-- 🌱 I’m currently learning and practicing **MERN Stack** and other technologies (React, Typescript, Node, Express, MongoDB, Jest, Redux, GraphQL, Styled Components)
+- 🌱 I’m currently learning and practicing **MERN Stack** and other technologies (JavaScript, React, Typescript, Node, Express, MongoDB, Jest, GraphQL, Styled Components and Python in the university)
 
 - ⚡ In my free time I like to learn about product management, design, startups, web3 and other related topics. I also like to cook and train :)
 
