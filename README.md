@@ -2,9 +2,9 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m a **Software Engineering student** looking for my first dev job experience!
+- 🔭 I’m a **Software Engineering student** looking for my first tech job experience!
 
-- 🌱 I’m currently learning and practicing with some technologies. (Python, JavaScript, React, Node, Express, MongoDB, Styled Components)
+- 🌱 I’m currently learning and practicing with some technologies. (Python, SQL, JavaScript, React, Express, MongoDB, Styled Components)
 
 - ⚡ In my free time I like to learn about product management, startups, web3, productivity, mindset and other related topics. I also like to cook and train :)
 
