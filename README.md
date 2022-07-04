@@ -22,10 +22,10 @@
 </a> 
  
 <a href="https://es.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
-<img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="30" height="30"/> </a>
+<img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="40" height="30"/> </a>
 
 <a href="https://powerbi.microsoft.com/es/" target="_blank" rel="noreferrer"> 
-<img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="power_bi" width="30" height="30"/> 
+<img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1200?cb=20210722190700&path-prefix=es" alt="power_bi" width="30" height="30"/> 
 </a>
 
 <h3 align="left">Some Stats:</h3>
