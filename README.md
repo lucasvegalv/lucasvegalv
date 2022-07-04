@@ -22,10 +22,10 @@
 </a> 
  
 <a href="https://es.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.jasoft.org%2FBlog%2Fimage.axd%3Fpicture%3D%2F2021%2Flocaldb%2FSQL-Server-logo.png&imgrefurl=https%3A%2F%2Fwww.jasoft.org%2FBlog%2Fpost%2Fque-es-sql-server-localdb-como-instalarlo-usarlo-y-actualizarlo&tbnid=KuIUT6a2cdnowM&vet=12ahUKEwi7uvGFsd_4AhWRkZUCHfdHBVQQMygFegUIARDLAQ..i&docid=a3GS0uRSmsqGOM&w=370&h=370&q=sql&ved=2ahUKEwi7uvGFsd_4AhWRkZUCHfdHBVQQMygFegUIARDLAQ" alt="sql" width="30" height="30"/> </a>
+<img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="30" height="30"/> </a>
 
 <a href="https://powerbi.microsoft.com/es/" target="_blank" rel="noreferrer"> 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FNew_Power_BI_Logo.svg%2F630px-New_Power_BI_Logo.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANew_Power_BI_Logo.svg&tbnid=udkjDeZGOQNEkM&vet=12ahUKEwj95rDYsd_4AhXRvJUCHVf4CJ8QMygRegUIARDNAQ..i&docid=fElY9UANHz96jM&w=630&h=630&q=power%20bi%20logo&hl=es&ved=2ahUKEwj95rDYsd_4AhXRvJUCHVf4CJ8QMygRegUIARDNAQ" alt="power_bi" width="30" height="30"/> 
+<img src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" alt="power_bi" width="30" height="30"/> 
 </a>
 
 <h3 align="left">Some Stats:</h3>
