@@ -25,5 +25,5 @@
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="80" height="50"/> </a>
 
 <a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> 
-<img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="50" height="50"/> 
+<img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="55" height="60"/> 
 </a>
