@@ -18,11 +18,11 @@
 <p align="left"> 
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python_logo" width="30" height="30"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python_logo" width="50" height="50"/> 
 </a> 
  
 <a href="https://es.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
-<img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="40" height="30"/> </a>
+<img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="80" height="50"/> </a>
 
 <a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> 
 <img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="50" height="50"/> 
