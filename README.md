@@ -2,11 +2,11 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m a **Software Engineering student** looking for my first tech job experience!
+- 🔭 I am a 20 year old guy from **Buenos Aires, Argentina** interested in all the opportunities that the intersection between **people, business and technology** offers us!
 
-- 🌱 I’m in love with the power of **data science** and **machine learning** and how they are gonna keep improvivng our lifes! For this, I'm starting to learn and practice about data with some technologies. (Python, SQL, Power BI)
+- 🌱 I’m in love with the power of **data** in order to make better decisions and develop better and more customer centric products! For this, I'm learning and practicing with some technologies like Python, SQL and Tableau.
 
-- ⚡ In my free time I like to learn about other areas like product management, startups, productivity, leadership, etc. so I can have a broad vision about tech products and teams :). I also like to cook and train :)
+- ⚡ In my free time I like to learn about other areas like product management, startups, productivity, leadership, etc. so I can have a broad vision about tech products and teams :). I also like to train, listen to some music and, of course, relax and spend some time with friends :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,11 +24,6 @@
 <a href="https://es.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="40" height="30"/> </a>
 
-<a href="https://powerbi.microsoft.com/es/" target="_blank" rel="noreferrer"> 
-<img src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1200?cb=20210722190700&path-prefix=es" alt="power_bi" width="30" height="30"/> 
+<a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> 
+<img src="[https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1200?cb=20210722190700&path-prefix=es](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcronuts.digital%2Fen%2Ftechnology%2Ftableau%2F&psig=AOvVaw14iwkw7Yvm6wJSEpLVItCL&ust=1692236977858000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiM2JKI4IADFQAAAAAdAAAAABAZ)" alt="tableau" width="30" height="30"/> 
 </a>
-
-<h3 align="left">Some Stats:</h3>
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvegalv&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</div>
