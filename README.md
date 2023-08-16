@@ -25,5 +25,5 @@
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="40" height="30"/> </a>
 
 <a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> 
-<img src="[https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1200?cb=20210722190700&path-prefix=es](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcronuts.digital%2Fen%2Ftechnology%2Ftableau%2F&psig=AOvVaw14iwkw7Yvm6wJSEpLVItCL&ust=1692236977858000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiM2JKI4IADFQAAAAAdAAAAABAZ)" alt="tableau" width="30" height="30"/> 
+<img src="[https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1200?cb=20210722190700&path-prefix=es](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcronuts.digital%2Fen%2Ftechnology%2Ftableau%2F&psig=AOvVaw14iwkw7Yvm6wJSEpLVItCL&ust=1692236977858000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiM2JKI4IADFQAAAAAdAAAAABAZ)" alt="tableau" width="50" height="50"/> 
 </a>
