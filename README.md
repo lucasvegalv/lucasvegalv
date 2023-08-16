@@ -25,5 +25,5 @@
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="40" height="30"/> </a>
 
 <a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmatterly.io%2Fwp-content%2Fuploads%2F2022%2F11%2FTableau-Emblem.png&tbnid=FQx08SsEXMcXPM&vet=12ahUKEwjMnuzQiOCAAxVLO1kFHTNkDOAQMygXegUIARCkAQ..i&imgrefurl=https%3A%2F%2Fmatterly.io%2Fintegrations%2Ftableau-integration%2F&docid=4SW66iKkHrpm0M&w=3840&h=2160&q=tableau&hl=es&ved=2ahUKEwjMnuzQiOCAAxVLO1kFHTNkDOAQMygXegUIARCkAQ" alt="tableau" width="50" height="50"/> 
+<img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="50" height="50"/> 
 </a>
