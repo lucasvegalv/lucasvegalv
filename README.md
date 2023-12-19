@@ -2,7 +2,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I am a 20 year old guy from **Buenos Aires, Argentina** passionate about all the opportunities that the intersection between **people, business and technology** offers us!
+- 🔭 I am a 21 year old guy from **Buenos Aires, Argentina** passionate about all the opportunities that the intersection between **people, business and technology** offers us!
 
 - 📊 More specifically, the power of **data** blows my mind. Its power and all the potential to make better decisions and develop better and more customer centric products is huge!
 
@@ -24,7 +24,3 @@
  
 <a href="https://es.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> 
 <img src="https://blog.desafiolatam.com/wp-content/uploads/2018/05/sql-logo.png" alt="sql" width="80" height="50"/> </a>
-
-<a href="https://www.tableau.com/es-es" target="_blank" rel="noreferrer"> 
-<img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="55" height="60"/> 
-</a>
