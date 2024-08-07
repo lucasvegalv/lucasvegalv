@@ -6,7 +6,7 @@
 
 - ⚡Currently, I'm working at **SquadS Ventures** as a Product Analyst. Also. I'm studying **Software Engineering** at UADE.
 
-- 🌱 In my free time I like to learn about other topics like **product**, **startups**, **design**, **mindset**, **entrepreneurship**, **leadership**, etc. I also like to train, listen to some music and, of course, relax and spend some time with friends :)
+- 🌱 In my free time I like to learn about other topics like **product**, **startups**, **design**, **entrepreneurship**, etc. I also like to train, listen to some music and, of course, relax and spend some time with friends :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
