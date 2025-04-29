@@ -6,7 +6,15 @@
 
 ###
 
-<p align="left">🔭 I'm a 21-year-old from Buenos Aires, Argentina, passionate about the limitless opportunities at the intersection of people, business, and technology.<br><br>⚡ Currently, I'm working at SquadS Ventures as a Product Analyst and pursuing a degree in Software Engineering at UADE. At university, I've studied data strcuctures and algorithms with technologies like Java, Spring Boot, Python, and SQL, while I've taken the initiative to learn JavaScript, TypeScript, and other technologies on my own.<br><br>🌱 In my free time, I enjoy exploring topics like product management, design, and entrepreneurship. I also like to train, listen to music, and, of course, relax and spend time with friends.</p>
+<p align="left">
+Hey! I'm a 22-year-old from Buenos Aires, Argentina, driven by curiosity and a strong passion for how people, technology, and business come together to create impact.<br><br>
+
+Right now, I'm part of the TechOps team at <strong>Pomelo</strong>, where I work at the intersection of software and operations — building tools and improving processes to deliver better experiences.<br><br>
+
+I'm also studying Software Engineering at <strong>UADE</strong>, where I’ve learned about data structures, algorithms, and backend development with <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>Python</strong>, and <strong>SQL</strong>. On the frontend side, I've been exploring <strong>React</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>.<br><br>
+
+Outside of work and school, I’m into product, design, and startups. I also enjoy training, listening to music, and hanging out with friends and family.
+</p>
 
 ###
 
@@ -44,7 +52,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/lucas-[tu-usuario]" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
-
-###
